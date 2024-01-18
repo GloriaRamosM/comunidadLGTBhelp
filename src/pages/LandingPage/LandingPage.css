@@ -1,0 +1,9 @@
+.container-landing {
+  margin: 0px;
+  padding: 40px;
+  /* background-color: rgb(218, 248, 249) */
+  background-image: url(https://conecta.tec.mx/sites/default/files/styles/header_full/public/2020-07/pride-mexico-conecta-hidalgo-2.jpg?itok=2XLr2qk4);
+  min-width: 100vw;
+  height: 100vh;
+  background-size: cover;
+}
