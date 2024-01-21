@@ -8,7 +8,7 @@ export const Navbar = () => {
                 <ul className='flex'>
                     <li className='mx-7 text-[#e0f0ea] textNavbar'> Quienes somos
                     </li>
-                    <li className='mx-7 text-[#e0f0ea] textNavbar'> En que estamos
+                    <li className='mx-7 text-[#e0f0ea] textNavbar'> Lo que hacemos
                     </li>
                     <li className='mx-7 text-[#e0f0ea] textNavbar'> Contacto
                     </li>
