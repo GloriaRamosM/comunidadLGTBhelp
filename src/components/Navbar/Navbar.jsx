@@ -11,12 +11,10 @@ export const Navbar = () => {
 
                     <Link className='mx-7 text-[#e0f0ea] textNavbar' to={'/hacemos'}> Lo que hacemos</Link>
 
-                    <li className='mx-7 text-[#e0f0ea] textNavbar'> Contacto
-                    </li>
-                    <li className='mx-7 text-[#e0f0ea] textNavbar'> Necesito ayuda
-                    </li>
-                    <li className='mx-7 text-[#e0f0ea] textNavbar'>
-                    </li>
+                    <Link className='mx-7 text-[#e0f0ea] textNavbar' to={'/contacto'}> Contacto </Link>
+
+                    <Link className='mx-7 text-[#e0f0ea] textNavbar' to={'/necesito'}> Necesito ayuda
+                    </Link>
 
                 </ul>
 
