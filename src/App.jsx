@@ -20,7 +20,7 @@ function App() {
 
         <Navbar />
 
-        <div className='content-wrap'>
+        <div className='content-wrap '>
           <Routes>
             <Route path='/' element={<LandingPage />} />
             <Route path='/quienes' element={<QuienesSomos />} />
